@@ -1,0 +1,19 @@
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.exe.config
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.exe
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.pdb
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.Form1.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.exe
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2017\Projects\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.pdb
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.exe.config
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.exe
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\bin\Debug\PatronesDeDisenos.pdb
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.csprojResolveAssemblyReference.cache
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.Form1.resources
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.Properties.Resources.resources
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.csproj.GenerateResource.Cache
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.exe
+C:\Users\cr-al\Dropbox\USAC_NUEVO\Primer Semestre 2019\Analisis y Diseño 2\Patron de Diseño\PatronesDeDisenos\PatronesDeDisenos\obj\Debug\PatronesDeDisenos.pdb
